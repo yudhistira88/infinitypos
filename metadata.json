@@ -1,0 +1,8 @@
+{
+  "name": "Copy of InfinityPOS Siap Deploy",
+  "description": "A modern Point of Sale (POS) application for retail, service, and combined businesses, enhanced with AI-powered features for product description generation.",
+  "requestFramePermissions": [
+    "bluetooth",
+    "usb"
+  ]
+}
