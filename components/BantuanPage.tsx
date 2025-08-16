@@ -95,7 +95,7 @@ const BantuanPage: React.FC = () => {
                     <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">Pertanyaan yang Sering Diajukan</h2>
                     <div className="bg-white p-6 rounded-xl shadow-sm border border-gray-200">
                         <FaqItem question="Bagaimana cara menghubungkan printer Bluetooth?">
-                            <p>Pastikan printer Anda menyala dan Bluetooth diaktifkan. Pergi ke menu 'Settings' > 'Perangkat & Printer', lalu klik 'Hubungkan Bluetooth'. Pilih printer Anda dari daftar yang muncul. Jika ini pertama kalinya, browser akan meminta izin untuk mengakses perangkat Bluetooth.</p>
+                            <p>Pastikan printer Anda menyala dan Bluetooth diaktifkan. Pergi ke menu 'Settings' &gt; 'Perangkat & Printer', lalu klik 'Hubungkan Bluetooth'. Pilih printer Anda dari daftar yang muncul. Jika ini pertama kalinya, browser akan meminta izin untuk mengakses perangkat Bluetooth.</p>
                         </FaqItem>
                         <FaqItem question="Apakah saya bisa menambahkan diskon dalam Rupiah dan Persen sekaligus?">
                             <p>Tentu. Di halaman Kasir, Anda bisa mengisi kedua kolom diskon. Sistem akan menghitung diskon persen terlebih dahulu, kemudian mengurangi hasilnya dengan diskon Rupiah.</p>
